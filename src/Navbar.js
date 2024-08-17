@@ -1,8 +1,8 @@
 const Navbar = () => {
     return (
-        <nav className="Navbar">
+        <nav className="navbar">
             <h1>The Dojo Blog</h1>
-            <div className="inks">
+            <div className="links">
                 <a href="/">Home</a>
                 <a href="/create">New Blog</a>
             </div>
